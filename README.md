@@ -9,3 +9,4 @@ Usage:
 node app.js input.json
 ```
 
+![screen shot](https://i.imgur.com/PoEpdLt.png)
