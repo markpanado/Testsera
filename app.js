@@ -5,8 +5,7 @@ const testsera = require('./testsera')
 const input_file = process.argv[2]
 
 // process input file
-var output = testsera.process(input_file)
-
-// stdout
-process.stdout.write(`${output}\n`)
-
+testsera.process(input_file).then(output => {
+    // stdout
+    process.stdout.write(`${output}\n`)
+})
