@@ -1,8 +1,11 @@
 # Testsera
 
 TODOs:
-- [ ] I'm having problems with the async behaviour of http.get so decided to use variable for the API for now. WIll need to update to use real API calls.
-- [ ] Airbnb style guide not yet implemented as I need to study first the documentation.
+- [x] API calls.
+- [x] If we'd like to extend the code and add another type similar to 'cash_in' - this part would need refactoring.
+- [x] This code is repeated a couple of times, should be placed in a function
+- [ ] Airbnb style guide
+- [ ] Unit testing
 
 Usage:
 ```
