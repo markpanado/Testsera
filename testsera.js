@@ -61,7 +61,7 @@ class Utilities {
             const api_response = await fetch(api_url)
             api_data = await api_response.json()
             
-            console.log(api_data)
+            // console.log(api_data)
 
             // cache API response to api_map
             api_map[api_map_key].data = api_data
