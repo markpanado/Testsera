@@ -209,6 +209,7 @@ class Operations extends Utilities {
     }
 }
 
+// Will handle input data
 class Processor extends Operations {
     // init
     constructor() {
