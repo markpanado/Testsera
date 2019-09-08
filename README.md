@@ -7,7 +7,10 @@ TODOs:
 - [ ] Airbnb style guide
 - [ ] Unit testing
 
-Usage:
+## Regrouped Functions
+![screen shot](https://i.imgur.com/2uzUdJd.png)
+
+## Usage:
 ```
 node app.js input.json
 ```
